@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Profile views](https://komarev.com/ghpvc/?username=tonusername&color=blue)
 # 👋 Bonjour, je suis Mot Seck  
 
