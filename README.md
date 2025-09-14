@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Profile views](https://komarev.com/ghpvc/?username=tonusername&color=blue)
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=tonusername&show_icons=true&theme=radical)
+
 
 
 
