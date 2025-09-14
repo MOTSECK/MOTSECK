@@ -26,8 +26,8 @@ Toujours curieux d’apprendre de nouvelles technologies et motivé à relever d
 
 ## 📊 Statistiques GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?MOTSECK=MOTSECK&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MOTSECK=MOTSECK&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOTSECK&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOTSECK&layout=compact&theme=radical)  
 
 ---
 
